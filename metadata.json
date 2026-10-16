@@ -1,0 +1,8 @@
+{
+  "name": "PlayOffline - Магазин офлайн игр",
+  "description": "Маркетплейс проверенных офлайн аккаунтов топовых игр с мгновенной выдачей данных, подробными инструкциями и гарантией.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
